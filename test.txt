@@ -1,1 +1,5 @@
 Linux is awesome
+Ubuntu is based on linux
+
+
+Debian will be deleting
