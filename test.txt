@@ -3,3 +3,5 @@ Ubuntu is based on linux
 
 
 Debian will be deleting
+
+git revert komut kullanılıyor.
