@@ -4,4 +4,4 @@ Ubuntu is based on linux
 
 Debian will be deleting
 
-
+bu bir conflict 
