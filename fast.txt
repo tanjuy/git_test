@@ -1,1 +1,3 @@
 Bu bir fast-forward çalışmasıdır.
+
+Bir commit daha oluştumak istedim.
