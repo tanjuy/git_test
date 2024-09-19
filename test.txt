@@ -9,3 +9,4 @@ bu bir conflict
 Bu Prod branch'dir
 
 Bu bir main branch'dir.
+Bu conflict çalışmasdır.
