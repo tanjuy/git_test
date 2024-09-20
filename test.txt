@@ -13,3 +13,4 @@ Bu conflict çalışmasdır.
 Linux is Awesome
 
 I want to install Ubuntu
+I want to install Fedora
