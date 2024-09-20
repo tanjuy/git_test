@@ -14,3 +14,5 @@ Linux is Awesome
 
 I want to install Ubuntu
 I want to install Fedora
+
+git log origin/main
