@@ -11,3 +11,5 @@ Bu Prod branch'dir
 Bu bir main branch'dir.
 Bu conflict çalışmasdır.
 Linux is Awesome
+
+I want to install Ubuntu
